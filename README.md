@@ -1,2 +1,2 @@
-# first_repo
+# first_repository
 first git repository...
